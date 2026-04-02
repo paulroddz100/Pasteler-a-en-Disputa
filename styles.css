@@ -75,3 +75,13 @@ main{
     z-index: 1000;
     padding-block: 20px;
 }
+
+footer{
+    background-color: rgb(77, 36, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: wheat;
+}
